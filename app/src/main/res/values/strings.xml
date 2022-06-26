@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">蓝牙DEMO</string>
+
+    <string-array name="device_types">
+        <item>蓝牙血糖仪（OGM112）</item>
+        <item>血糖尿酸仪（OGM202）</item>
+    </string-array>
+</resources>
